@@ -1,7 +1,7 @@
 <template>
     <div class="bg-[#000300] px-4 py-12 mt-12">
       <div class="mx-auto max-w-xl text-center">
-        <h2 class="text-3xl font-semibold tracking-tight text-white sm:text-4xl">Contact sales</h2>
+        <h2 class="text-3xl font-semibold tracking-tight text-white sm:text-4xl">Contact Us</h2>
         <p class="mt-2 text-sm text-gray-400">Aute magna irure deserunt veniam aliqua magna enim voluptate.</p>
       </div>
 
