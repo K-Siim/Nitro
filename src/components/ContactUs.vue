@@ -87,5 +87,22 @@
 <script setup>
 import { reactive } from 'vue'
 
+const form = reactive({
+  fullName: '',
+  email: '',
+  companyName: '',
+  budget: '',
+  projectDetails: ''
+})
 
+const submitForm = () => {
+  console.log('Form submitted:', form)
+  // Here you would typically send the form data to a server
+  alert('Thank you for your submission! We will get back to you soon.')
+  
+  // Reset form
+  Object.keys(form).forEach(key => {
+    form[key] = ''
+  })
+}
 </script>

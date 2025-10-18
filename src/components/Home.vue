@@ -2,7 +2,7 @@
   <!-- HERO (suur taust + kerge tumendus) -->
   <section class="relative text-center">
     <div class="absolute inset-0 -z-10">
-      <img src="../pictures/Taustakas.jpg" alt="" class="h-full w-full object-cover" />
+      <img src="../Pictures/Taustakas.jpg" alt="" class="h-full w-full object-cover" />
       <div class="absolute inset-0 bg-black/40"></div>
     </div>
 
@@ -77,7 +77,7 @@
         <!-- work card -->
         <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
           <div class="aspect-[16/9] w-full bg-black/20">
-            <img src="../pictures/BoxedWater.jpg" class="h-full w-full object-cover" alt="">
+            <img src="../Pictures/BoxedWater.jpg" class="h-full w-full object-cover" alt="">
           </div>
           <div class="p-5">
             <h3 class="font-semibold">XoolTech</h3>
@@ -88,7 +88,7 @@
 
         <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
           <div class="aspect-[16/9] w-full bg-black/20">
-            <img src="../pictures/Lapakas.jpg" class="h-full w-full object-cover" alt="">
+            <img src="../Pictures/Lapakas.jpg" class="h-full w-full object-cover" alt="">
           </div>
           <div class="p-5">
             <h3 class="font-semibold">Flinkerk</h3>
@@ -99,7 +99,7 @@
 
         <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
           <div class="aspect-[16/9] w-full bg-black/20">
-            <img src="../pictures/meik.jpg" class="h-full w-full object-cover" alt="">
+            <img src="../Pictures/meik.jpg" class="h-full w-full object-cover" alt="">
           </div>
           <div class="p-5">
             <h3 class="font-semibold">Alberto Maya</h3>
@@ -110,7 +110,7 @@
 
         <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
           <div class="aspect-[16/9] w-full bg-black/20">
-            <img src="../pictures/Lapakas.jpg" alt="" class="h-full w-full object-cover">
+            <img src="../Pictures/Lapakas.jpg" alt="" class="h-full w-full object-cover">
           </div>
           <div class="p-5">
             <h3 class="font-semibold">Flickerd</h3>
@@ -361,7 +361,7 @@
       <div class="grid gap-6 md:grid-cols-3">
         <!-- article card -->
         <article class="rounded-md bg-card ring-1 ring-white/10 overflow-hidden">
-          <img src="../pictures/info.jpg" alt="" class="h-48 w-full object-cover">
+          <img src="../Pictures/info.jpg" alt="" class="h-48 w-full object-cover">
           <div class="p-5">
             <div class="mb-3 flex flex-wrap gap-2 text-xs">
               <span class="rounded bg-base2 px-2 py-1">Brand Identity</span>
@@ -372,7 +372,7 @@
           </div>
         </article>
         <article class="rounded-md bg-card ring-1 ring-white/10 overflow-hidden">
-          <img src="../pictures/info.jpg" alt="" class="h-48 w-full object-cover">
+          <img src="../Pictures/info.jpg" alt="" class="h-48 w-full object-cover">
           <div class="p-5">
             <div class="mb-3 flex flex-wrap gap-2 text-xs">
               <span class="rounded bg-base2 px-2 py-1">UI/UX</span>
@@ -383,7 +383,7 @@
           </div>
         </article>
         <article class="rounded-md bg-card ring-1 ring-white/10 overflow-hidden">
-          <img src="../pictures/ajakiri.jpg" alt="" class="h-48 w-full object-cover">
+          <img src="../Pictures/ajakiri.jpg" alt="" class="h-48 w-full object-cover">
           <div class="p-5">
             <div class="mb-3 flex flex-wrap gap-2 text-xs">
               <span class="rounded bg-base2 px-2 py-1">Web Development</span>
