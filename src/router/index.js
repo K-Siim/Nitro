@@ -16,7 +16,7 @@ const routes = [
   { path: '/service', component: Service },
   { path: '/work', component: Work },
   { path: '/about-us', component: AboutUs },
-  { path: '/privacy-policy', component: PrivacyPolicy }
+  { path: '/PrivacyPolicy', component: PrivacyPolicy }
 ];
 
 const router = createRouter({
