@@ -32,7 +32,7 @@
                     <div class="flex flex-col lg:flex-row w-full gap-[32px]">
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
-                                <img src="" alt="Profile" class="w-[80px] h-auto" />
+                                <img src="../Pictures/Icon-Experience.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
                             <div class="flex flex-col gap-[16px]">
                                 <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
@@ -51,7 +51,7 @@
                         </div>
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
-                                <img src="" alt="Profile" class="w-[80px] h-auto" />
+                                <img src="../Pictures/Icon-Development.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
                             <div class="flex flex-col gap-[16px]">
                                 <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
@@ -70,7 +70,7 @@
                         </div>
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
-                                <img src="" alt="Profile" class="w-[80px] h-auto" />
+                                <img src="../Pictures/Icon-Technology.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
                             <div class="flex flex-col gap-[16px]">
                                 <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
@@ -91,7 +91,7 @@
                     <div class="flex flex-col lg:flex-row gap-[32px]">
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
-                                <img src="" alt="Profile" class="w-[80px] h-auto" />
+                                <img src="../Pictures/Icon-Research.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
                             <div class="flex flex-col gap-[16px]">
                                 <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
@@ -109,7 +109,7 @@
                         </div>
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
-                                <img src="" alt="Profile" class="w-[80px] h-auto" />
+                                <img src="../Pictures/Icon-Visual.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
                             <div class="flex flex-col gap-[16px]">
                                 <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
@@ -127,7 +127,7 @@
                         </div>
                         <div class="bg-[#E5F6F4] w-full flex flex-col gap-[32px] px-[24px] py-[40px]">
                             <div>
-                                <img src="" alt="Profile" class="w-[80px] h-auto" />
+                                <img src="../Pictures/Icon-Interactions.png" alt="Profile" class="w-[80px] h-auto" />
                             </div>
                             <div class="flex flex-col gap-[16px]">
                                 <h3 class="font-outfit font-semibold text-[#006458] text-[32px] text-nowrap">
@@ -152,7 +152,7 @@
                 <div class="flex justify-center items-center lg:flex-row flex-col gap-[10px]">
                     <h2 class="font-outfit font-medium xl:w-[1200px] lg:w-[679px] md:text-[36px] sm:text-[36px] text-[24px] text-white">If you have no idea how to make your business unique, it’s ok, because we don’t either, but we have a method for figuring that out. We are going to collaborate every step of the way to create a unique online identity that stands out from the noise.</h2>
                     <div class="sm:w-[350px] sm:h-[350px] flex justify-center items-center">
-                        <img src="" alt="Profile" class="w-[316px] h-auto" />
+                        <img src="../Pictures/workIllustration.png" alt="Profile" class="w-[316px] h-auto" />
                     </div>
                 </div>
                 <div class="flex flex-col gap-[40px]">
@@ -231,7 +231,7 @@
                             </div>
                             <!-- Illustration -->
                             <div>
-                                <img src="" alt="Profile" class="xl:w-[447px] lg:w-[378px] w-[240px] h-auto" />
+                                <img src="../Pictures/Group.png" alt="Profile" class="xl:w-[447px] lg:w-[378px] w-[240px] h-auto" />
                             </div>
                         </div>
                         <!-- list -->
@@ -271,6 +271,84 @@
                     </div>
                 </div>
             </div>
+    </div>
+
+ <div class="bg-white pt-[40px] pb-[40px] xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px]">
+        <div class="bg-[#CCEDE9] pt-[40px] pb-[60px] sm:pr-[40px] pr-[20px] sm:pl-[40px] pl-[20px]">
+            <div class="flex xl:flex-row flex-col gap-[40px] xl:items-center">
+                <!-- Body -->
+                <div class="flex flex-col gap-[35px] xl:w-[1026px]">
+                    <h2 class="font-outfit font-semibold text-[#004B49] lg:text-[64px] sm:text-[48px] text-[36px]">Design</h2>
+                    <p class="font-outfit font-regular text-[#004B49] sm:text-[20px] text-[18px]">Designing digital products has been primary focus and a crucial part of our agency. With the business goals in mind we go in-depth to draw user’s attention, presenting your business in a meaniful way to be functional that will generate more leads.</p>
+                    <div>
+                        <ul class="list-disc pl-[20px] flex flex-col gap-[9px]">
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">App Design</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Website Design</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">User Interface Design</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">User Interface Design</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Illustration -->
+                <div>
+                    <img src="../Pictures/designIllustration.png" alt="Profile" class="xl:w-[489px] lg:w-[378px] w-[240px] h-auto" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+     <div class="bg-white pt-[40px] pb-[40px] xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px]">
+        <div class="bg-[#E5F6F4] pt-[40px] pb-[60px] sm:pr-[40px] pr-[20px] sm:pl-[40px] pl-[20px]">
+            <div class="flex xl:flex-row flex-col gap-[40px] xl:items-start">
+                <!-- Illustration -->
+                <div>
+                    <img src="../Pictures/webIllustration.png" alt="Profile" class="xl:w-[489px] lg:w-[378px] w-[240px] h-auto" />
+                </div>                
+                <!-- Body -->
+                <div class="flex flex-col gap-[35px] xl:w-[1053px]">
+                    <h2 class="font-outfit font-semibold text-[#004B49] lg:text-[64px] sm:text-[48px] text-[36px]">Web Development</h2>
+                    <p class="font-outfit font-regular text-[#004B49] sm:text-[20px] text-[18px]">Our expert developers solve complex problems on the web. When we hand-over the design assets to them, they make sure the codes are efficient, highly organized and readable. From creating custom websites to using industry-leading platforms such as Webflow, Wordpress and Shopify to build powerful solutions to keep your website fast, secure and seamlessly integrated.</p>
+                    <div class="flex sm:flex-row flex-col lg:flex-nowrap flex-wrap gap-[40px]">
+                        <ul class="list-disc sm:text-nowrap xl:w-[400px] lg:w-[480px] md:w-[507px] sm:w-[300px] pl-[20px] flex flex-col gap-[9px]">
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Front-end Development</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Back-end Development</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">QA & Maintenance</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">CMS & CRM</li>
+                        </ul>
+                        <ul class="list-disc sm:text-nowrap sm:w-[300px] pl-[20px] flex flex-col gap-[9px]">
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">E-Commerce Website</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Webflow Website</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Wordpress Website</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Shopify Website</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white pt-[40px] pb-[40px] xl:pr-[140px] md:pr-[80px] sm:pr-[32px] pr-[20px] xl:pl-[140px] md:pl-[80px] sm:pl-[32px] pl-[20px]">
+        <div class="bg-[#CCEDE9] pt-[40px] pb-[60px] sm:pr-[40px] pr-[20px] sm:pl-[40px] pl-[20px]">
+            <div class="flex xl:flex-row flex-col gap-[40px] xl:items-center">
+                <!-- Body -->
+                <div class="flex flex-col gap-[35px] xl:w-[1026px]">
+                    <h2 class="font-outfit font-semibold text-[#004B49] lg:text-[64px] sm:text-[48px] text-[36px]">SEO</h2>
+                    <p class="font-outfit font-regular text-[#004B49] sm:text-[20px] text-[18px]">SEO allows you to climb the search engine results page rankings by improving on-page and off-page elements of your website that work together to make it more beneficial to your target audience. Higher rankings mean more site traffic and it’s no secret that more site traffic leads to more conversions and revenue over time.</p>
+                    <div>
+                        <ul class="list-disc pl-[20px] flex flex-col gap-[9px]">
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">On-page SEO</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Off-page SEO</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Technical SEO</li>
+                            <li class="font-supreme font-medium text-[#006458] text-[24px]">Local SEO</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Illustration -->
+                <div>
+                    <img src="../Pictures/seoIllustration.png" alt="Profile" class="xl:w-[489px] lg:w-[378px] w-[240px] h-auto" />
+                </div>
+            </div>
+        </div>
     </div>
 
 </template>
