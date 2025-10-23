@@ -15,7 +15,7 @@ const routes = [
   { path: '/ContactUs', component: ContactUs },
   { path: '/service', component: Service },
   { path: '/work', component: Work },
-  { path: '/about-us', component: AboutUs },
+  { path: '/AboutUs', component: AboutUs },
   { path: '/PrivacyPolicy', component: PrivacyPolicy }
 ];
 
