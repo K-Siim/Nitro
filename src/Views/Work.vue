@@ -1,25 +1,62 @@
 <template>
-  <div class="min-h-screen bg-white">
-    <div class="container mx-auto px-4 py-20">
-      <h1 class="text-4xl font-bold text-center mb-8">Our Work</h1>
-      <p class="text-center text-gray-600 mb-12">Explore our portfolio of successful projects.</p>
-      
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        <div class="bg-gray-50 p-6 rounded-lg">
-          <h3 class="text-xl font-semibold mb-4">Project Alpha</h3>
-          <p class="text-gray-600">A comprehensive e-commerce solution for a retail client.</p>
+ <section id="works" class="py-16 bg-[#001412]">
+    <div class="container">
+      <div class="mb-6 flex items-center justify-between">
+        <div>
+          <h2 class="text-2xl md:text-3xl font-semibold">Selected works</h2>
+          <p class="mt-1 text-sm text-white/70">See our featured works here.</p>
         </div>
-        <div class="bg-gray-50 p-6 rounded-lg">
-          <h3 class="text-xl font-semibold mb-4">Project Beta</h3>
-          <p class="text-gray-600">A modern web application for a tech startup.</p>
-        </div>
-        <div class="bg-gray-50 p-6 rounded-lg">
-          <h3 class="text-xl font-semibold mb-4">Project Gamma</h3>
-          <p class="text-gray-600">A responsive website redesign for a service company.</p>
-        </div>
+        <a href="#" class="hidden sm:inline-flex rounded-md border border-white/30 px-4 py-2 text-sm hover:bg-white/10">View All</a>
+      </div>
+
+      <div class="grid gap-6 md:grid-cols-2">
+        <!-- work card -->
+        <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
+          <div class="aspect-[16/9] w-full bg-black/20">
+            <img src="../Pictures/BoxedWater.jpg" class="h-full w-full object-cover" alt="">
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold">XoolTech</h3>
+            <p class="mt-1 text-sm text-white/70">We partnered with XoolTech’s amazing team...</p>
+            <span class="mt-3 inline-block rounded bg-base2 px-2 py-1 text-xs text-white/80">Brand Identity</span>
+          </div>
+        </article>
+
+        <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
+          <div class="aspect-[16/9] w-full bg-black/20">
+            <img src="../Pictures/Lapakas.jpg" class="h-full w-full object-cover" alt="">
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold">Flinkerk</h3>
+            <p class="mt-1 text-sm text-white/70">Helping streamline project development...</p>
+            <span class="mt-3 inline-block rounded bg-base2 px-2 py-1 text-xs text-white/80">Web Design</span>
+          </div>
+        </article>
+
+        <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
+          <div class="aspect-[16/9] w-full bg-black/20">
+            <img src="../Pictures/meik.jpg" class="h-full w-full object-cover" alt="">
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold">Alberto Maya</h3>
+            <p class="mt-1 text-sm text-white/70">A fully automated and highly configurable solution...</p>
+            <span class="mt-3 inline-block rounded bg-base2 px-2 py-1 text-xs text-white/80">Web Development</span>
+          </div>
+        </article>
+
+        <article class="overflow-hidden rounded-md bg-card ring-1 ring-white/10">
+          <div class="aspect-[16/9] w-full bg-black/20">
+            <img src="../Pictures/Lapakas.jpg" alt="" class="h-full w-full object-cover">
+          </div>
+          <div class="p-5">
+            <h3 class="font-semibold">Flickerd</h3>
+            <p class="mt-1 text-sm text-white/70">Custom web and app solutions for efficiency...</p>
+            <span class="mt-3 inline-block rounded bg-base2 px-2 py-1 text-xs text-white/80">Graphic Design</span>
+          </div>
+        </article>
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script setup>
